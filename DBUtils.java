@@ -1,2 +1,4 @@
+
+Hello Updated in master branch(This line is recently added)
 Hello, This file contains the DB related logic...
 For connecting to database we will use JDFC APIS in Java (Updated content)
